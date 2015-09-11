@@ -1,4 +1,4 @@
-#Responsive grid exercises using Zurb Foundation
+#Responsive grid,utility, and visibility exercises using Zurb Foundation
 
 ##DIRECTIONS
 
