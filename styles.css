@@ -1,24 +1,9 @@
 /*.debug {
-	border:1px solid black;
+	border:1px solid red;
 }*/
 img {
 	width:100%;
 }
-button {
-	background-color:black;
-}
-@media only screen and (max-width: 40em) {
-  .feedback-text {text-align:center; margin-top:2em;}
-  #give {text-align: center;}
-  #give-text {margin: 2em 0 2em 0;}
-}
 
-@media only screen and (min-width: 64.063em) { 
-	.feedback-text {margin-top:20%;}
-	#give {background-color:#adb31f;}
-  	#give-text {margin-top:15em;}
-
-
-}
 
 /*background-color: #adb31f;*/
